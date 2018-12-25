@@ -1,5 +1,10 @@
 # serverless-platform
-Its a Platform that uses DIREKTSPEED's @serverless-framework to run Serverless code like lambda kappa via a Amazon ECS like Hosting Environment that works on Local Computers and also Distributed over 100000 Servers or Instances Computation. Core Technologys that are envolved are: SystemD, The Kappa Architecture, Couchbase, Docker, Unikernels, Unix and Unixoid Systems, Low and High level Coding Languages. We will simplyfy the Core Technology under the Term Open Source Software. And we want to Say Thank You to All Contributors to that Term who ever and where ever they Are you All Are Amazing!!!!
+Its a Platform build out of the [@serverless-framework](https://github.com/serverless-framework) that is Invented by [@DIREKTSPEED](https://github.com/direktspeed/) to run Serverless code in Your Local Private or a External Hosting Environment as also Local Computers.
+
+It Aims to Solve all The Problems of any Kappa Architecture (or Lambda Architecture) where still the CAP theorem Applys.
+Read here about the Problem [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
+
+It can also be Distributed over 100000 Servers or Instances for Computation. Core Technologys that are envolved are: SystemD, The Kappa Architecture, Couchbase, Docker, Unikernels, Unix and Unixoid Systems, Low and High level Coding Languages. We will simplyfy the Core Technology under the Term Open Source Software. And we want to Say Thank You to All Contributors to that Term who ever and where ever they Are you All Are Amazing!!!!
 
 ## small till middle use cases
 Run it on your Local Development Environment without the Couchbase Event SDK to make it easy to Code and manage the common stuff, while preparing your code to do the impossible.
