@@ -20,6 +20,9 @@ It Integrates Couchbase with distributed Serverless code only that executes and 
 
 We Reached now Our Full Goal. All Parts are now deploy able as Unikernel's and Containers
 
+# Description of Serverless Platform and Direktspeed as a whole
+DIREKTSPEED can be seen as the First Opensource Only Software House that ingreds them all! Even the Biggest like Microsoft, Google, SAP, IBM. Oracle. To Deliver the Worlds Best Software Solutions for every case via a Unifed Architecture and Infrastructure Called Serverless Platform which is driven by the best out of All Opensource Software on the Market.
+
 # We Need You All
 at present we have a High demand on Copyright Specialists as also Writers and Coders out of the OpenSource Ecosystems that we use as Framework and Infrastructure Parts. We want to List some here so you can easy Find what you can deliver to make all this Your Success!
 - Couchbase
