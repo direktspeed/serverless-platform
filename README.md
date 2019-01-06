@@ -19,3 +19,17 @@ It Integrates Couchbase with distributed Serverless code only that executes and 
 ~~A Dream of us that we are working still on is to Combine that with Unikernel's while we are at present near to that future we are not there already. We See that as the Final State to Deploy Serverless Code and Couchbase as Real Unikernel Builds.~~
 
 We Reached now Our Full Goal. All Parts are now deploy able as Unikernel's and Containers
+
+# We Need You All
+at present we have a High demand on Copyright Specialists as also Writers and Coders out of the OpenSource Ecosystems that we use as Framework and Infrastructure Parts. We want to List some here so you can easy Find what you can deliver to make all this Your Success!
+- Couchbase
+- NodeJS
+- Go
+- Rust
+- ReasonML
+- CanJS
+- React
+- Frontend Development
+- Database Enthusiasts (Cassandra, Kafka, Couchbase, HADOOP)
+- Unikernel Project UniK
+- Docker Enthusiasts and other Container Projects like SystemDNS (rocket)
