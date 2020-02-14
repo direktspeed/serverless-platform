@@ -36,3 +36,12 @@ at present we have a High demand on Copyright Specialists as also Writers and Co
 - Database Enthusiasts (Cassandra, Kafka, Couchbase, HADOOP)
 - Unikernel Project UniK
 - Docker Enthusiasts and other Container Projects like SystemDNS (rocket)
+
+
+## Draft v2
+- OpenStack Or Kubernetes or any other Cloud Platform to manage Compute Resources for the Inital Deployment
+- Couchbase Document Storage, caches
+- Ceph as Object storage and Basic SDD (Software Defined Storage)
+- Automated Scaling based on Ceph and Couchbase Cluster Managers
+- Running and Managing Workers vis a Custom Cluster Manager 
+
